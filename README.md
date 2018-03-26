@@ -1,3 +1,3 @@
 # Fibonacci
 fibonacci project 
-Editing and Update Fibonnacci 
+Editing and Update Fibonacci
